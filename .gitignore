@@ -1,0 +1,7 @@
+*.o
+*.a
+*.swp
+tags
+backup
+a3
+*.md
